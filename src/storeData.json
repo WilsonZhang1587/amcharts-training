@@ -1,0 +1,2326 @@
+{
+    "result": [
+        {
+            "cn": "279",
+            "displayName": "279 新光三越高雄左營店",
+            "givenName": "新光三越高雄左營店",
+            "telephoneNumber": [
+                "+886 7 341 6618"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0202.01",
+                "st": "臺灣",
+                "description": "臺灣高雄市左營區高鐵路123號新光三越百貨1樓",
+                "l": [
+                    "高雄市",
+                    "左營區"
+                ],
+                "dsLatitude": "22.688360",
+                "dsLongitude": "120.309935",
+                "cnLatitude": "22.691230",
+                "cnLongitude": "120.321418",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越高雄左營店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣南營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61571"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61571",
+                            "name": "唐沁恩",
+                            "nameCn": "唐沁恩",
+                            "nameEn": "Cherry Tang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61901",
+                            "name": "李怡佐",
+                            "nameCn": "李怡佐",
+                            "nameEn": "Corrine Li"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680D"
+            ]
+        },
+        {
+            "cn": "415",
+            "displayName": "415 台中大遠百店",
+            "givenName": "台中大遠百店",
+            "telephoneNumber": [
+                "+886 4 2258 7938"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "10:30;22:00;週六、週日及公眾假期"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0307.01",
+                "st": "臺灣",
+                "description": "臺灣臺中市西屯區臺灣大道三段251號遠東百貨3樓",
+                "l": [
+                    "臺中市",
+                    "西屯區"
+                ],
+                "dsLatitude": "24.164542",
+                "dsLongitude": "120.647080",
+                "cnLatitude": "24.167412",
+                "cnLongitude": "120.658563",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "台中大遠百店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣中營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61301"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61301",
+                            "name": "林丁玉",
+                            "nameCn": "林丁玉",
+                            "nameEn": "Angel Lin"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61611",
+                            "name": "周佩儀",
+                            "nameCn": "周佩仪",
+                            "nameEn": "Pei Yi Chou"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680C"
+            ]
+        },
+        {
+            "cn": "425",
+            "displayName": "425 遠東SOGO新竹店",
+            "givenName": "遠東SOGO新竹店",
+            "telephoneNumber": [
+                "+886 3 531 9968"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五至週六及公眾假期前一日",
+                    "11:00;21:30;週日至週四"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0901.01",
+                "st": "臺灣",
+                "description": "臺灣新竹市東區中央路239號太平洋崇光百貨2樓",
+                "l": [
+                    "新竹市",
+                    "東區"
+                ],
+                "dsLatitude": "24.809610",
+                "dsLongitude": "120.975852",
+                "cnLatitude": "24.812480",
+                "cnLongitude": "120.987335",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "遠東SOGO新竹店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣中營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61301"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61301",
+                            "name": "林丁玉",
+                            "nameCn": "林丁玉",
+                            "nameEn": "Angel Lin"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61395",
+                            "name": "簡汶",
+                            "nameCn": "简汶",
+                            "nameEn": "Wen Chien"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680C"
+            ]
+        },
+        {
+            "cn": "610",
+            "displayName": "610 新光三越高雄三多店",
+            "givenName": "新光三越高雄三多店",
+            "telephoneNumber": [
+                "+886 7 336 8273"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0209.01",
+                "st": "臺灣",
+                "description": "臺灣高雄市前鎮區三多三路213號新光三越百貨1樓",
+                "l": [
+                    "高雄市",
+                    "前鎮區"
+                ],
+                "dsLatitude": "22.614461",
+                "dsLongitude": "120.306778",
+                "cnLatitude": "22.617331",
+                "cnLongitude": "120.318261",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越高雄三多店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣南營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61571"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61571",
+                            "name": "唐沁恩",
+                            "nameCn": "唐沁恩",
+                            "nameEn": "Cherry Tang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61595",
+                            "name": "潘凱文",
+                            "nameCn": "潘凯文",
+                            "nameEn": "Kai Wen Pan"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680D"
+            ]
+        },
+        {
+            "cn": "612",
+            "displayName": "612 台中中友百貨店",
+            "givenName": "台中中友百貨店",
+            "telephoneNumber": [
+                "+886 4 2227 0517"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "10:30;22:00;週六、週日及公眾假期",
+                    "11:00;22:00;週一至週五"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0305.01",
+                "st": "臺灣",
+                "description": "臺灣臺中市北區三民路三段161號中友百貨B棟2樓",
+                "l": [
+                    "臺中市",
+                    "北區"
+                ],
+                "dsLatitude": "24.152097",
+                "dsLongitude": "120.684765",
+                "cnLatitude": "24.154967",
+                "cnLongitude": "120.696248",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "台中中友百貨店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣中營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61301"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61301",
+                            "name": "林丁玉",
+                            "nameCn": "林丁玉",
+                            "nameEn": "Angel Lin"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "60987",
+                            "name": "劉庭妤",
+                            "nameCn": "刘庭妤",
+                            "nameEn": "Una Liu"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680C"
+            ]
+        },
+        {
+            "cn": "617",
+            "displayName": "617 台中廣三Sogo百貨店",
+            "givenName": "台中廣三Sogo百貨店",
+            "telephoneNumber": [
+                "+886 4 2329 4795"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "10:30;22:00;週六、週日及公眾假期"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0304.01",
+                "st": "臺灣",
+                "description": "臺灣臺中市西區臺灣大道二段459號太平洋崇光百貨2樓",
+                "l": [
+                    "臺中市",
+                    "西區"
+                ],
+                "dsLatitude": "24.260651",
+                "dsLongitude": "120.521684",
+                "cnLatitude": "24.263521",
+                "cnLongitude": "120.533167",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "台中廣三Sogo百貨店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣中營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61301"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61301",
+                            "name": "林丁玉",
+                            "nameCn": "林丁玉",
+                            "nameEn": "Angel Lin"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "60419",
+                            "name": "李品蓁",
+                            "nameCn": "李品蓁",
+                            "nameEn": "Coco Li"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680C"
+            ]
+        },
+        {
+            "cn": "620",
+            "displayName": "620 新光三越台北南西店一館",
+            "givenName": "新光三越台北南西店一館",
+            "telephoneNumber": [
+                "+886 2 2511 0959"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五至週六及公眾假期前一日",
+                    "11:00;21:30;週日至週四"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0103.01",
+                "st": "臺灣",
+                "description": "臺灣臺北市中山區南京西路12號新光三越百貨4樓",
+                "l": [
+                    "臺北市",
+                    "中山區　"
+                ],
+                "dsLatitude": "25.052356",
+                "dsLongitude": "121.521295",
+                "cnLatitude": "25.055226",
+                "cnLongitude": "121.532778",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越台北南西店一館",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北一營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "60538"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "60538",
+                            "name": "戴美玲",
+                            "nameCn": "戴美玲",
+                            "nameEn": "Meilin Tai"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "62100",
+                            "name": "許鈞明",
+                            "nameCn": "许钧明",
+                            "nameEn": "Jimmy Hsu"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680A"
+            ]
+        },
+        {
+            "cn": "631",
+            "displayName": "631 遠東SOGO忠孝館",
+            "givenName": "遠東SOGO忠孝館",
+            "telephoneNumber": [
+                "+886 2 2752 9027"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五至週六及公眾假期前一日",
+                    "11:00;21:30;週日至週四"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0105.01",
+                "st": "臺灣",
+                "description": "臺灣臺北市大安區忠孝東路四段45號太平洋崇光百貨4樓",
+                "l": [
+                    "臺北市",
+                    "大安區　"
+                ],
+                "dsLatitude": "25.041771",
+                "dsLongitude": "121.544497",
+                "cnLatitude": "25.044641",
+                "cnLongitude": "121.555980",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "遠東SOGO忠孝館",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北二營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61662"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61662",
+                            "name": "張志強",
+                            "nameCn": "张志强",
+                            "nameEn": "King Chang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "62049",
+                            "name": "陳思涵",
+                            "nameCn": "陈思涵",
+                            "nameEn": "Liz Chen"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680B"
+            ]
+        },
+        {
+            "cn": "635",
+            "displayName": "635 新光三越台中中港店",
+            "givenName": "新光三越台中中港店",
+            "telephoneNumber": [
+                "+886 4 2259 9741"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "10:30;22:00;週六、週日及公眾假期",
+                    "11:00;22:00;週一至週五"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0307.02",
+                "st": "臺灣",
+                "description": "臺灣臺中市西屯區臺灣大道三段301號新光三越百貨4樓",
+                "l": [
+                    "臺中市",
+                    "西屯區"
+                ],
+                "dsLatitude": "24.253164",
+                "dsLongitude": "120.537405",
+                "cnLatitude": "24.256034",
+                "cnLongitude": "120.548888",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越台中中港店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣中營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61301"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61301",
+                            "name": "林丁玉",
+                            "nameCn": "林丁玉",
+                            "nameEn": "Angel Lin"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61999",
+                            "name": "蕭煒霖",
+                            "nameCn": "萧炜霖",
+                            "nameEn": "Andy Xiao"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680C"
+            ]
+        },
+        {
+            "cn": "637",
+            "displayName": "637 高雄漢神百貨店",
+            "givenName": "高雄漢神百貨店",
+            "telephoneNumber": [
+                "+886 7 215 9525"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週一至週四",
+                    "10:30;22:30;週六及公眾假期",
+                    "10:30;22:00;連續假期最終日",
+                    "11:00;22:30;週五及連續假期前一日"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0206.02",
+                "st": "臺灣",
+                "description": "臺灣高雄市前金區成功一路266-1號漢神百貨B1樓",
+                "l": [
+                    "高雄市",
+                    "前金區"
+                ],
+                "dsLatitude": "22.619334",
+                "dsLongitude": "120.295880",
+                "cnLatitude": "22.622204",
+                "cnLongitude": "120.307363",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "高雄漢神百貨店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣南營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61571"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61571",
+                            "name": "唐沁恩",
+                            "nameCn": "唐沁恩",
+                            "nameEn": "Cherry Tang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61853",
+                            "name": "陳毓翔",
+                            "nameCn": "陈毓翔",
+                            "nameEn": "Belinda Chen"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680D"
+            ]
+        },
+        {
+            "cn": "639",
+            "displayName": "639 新光三越台南西門店",
+            "givenName": "新光三越台南西門店",
+            "telephoneNumber": [
+                "+886 6 303 0110"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0401.01",
+                "st": "臺灣",
+                "description": "臺灣臺南市中西區西門路一段658號新光三越百貨G樓",
+                "l": [
+                    "臺南市",
+                    "中西區"
+                ],
+                "dsLatitude": "22.986863",
+                "dsLongitude": "120.197803",
+                "cnLatitude": "22.989733",
+                "cnLongitude": "120.209286",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越台南西門店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣南營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61571"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61571",
+                            "name": "唐沁恩",
+                            "nameCn": "唐沁恩",
+                            "nameEn": "Cherry Tang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "62090",
+                            "name": "許雅婷",
+                            "nameCn": "许雅婷",
+                            "nameEn": "Ailleen Hsu"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680D"
+            ]
+        },
+        {
+            "cn": "642",
+            "displayName": "642 遠東SOGO中壢店",
+            "givenName": "遠東SOGO中壢店",
+            "telephoneNumber": [
+                "+886 3 280 7948"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五至週六及公眾假期前一日",
+                    "11:00;21:30;週日至週四"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0607.01",
+                "st": "臺灣",
+                "description": "臺灣桃園市中壢區元化路357號太平洋崇光百貨4樓",
+                "l": [
+                    "桃園市",
+                    "中壢區"
+                ],
+                "dsLatitude": "24.962422",
+                "dsLongitude": "121.223417",
+                "cnLatitude": "24.965292",
+                "cnLongitude": "121.234900",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "遠東SOGO中壢店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北二營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61662"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61662",
+                            "name": "張志強",
+                            "nameCn": "张志强",
+                            "nameEn": "King Chang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61465",
+                            "name": "王慧詩",
+                            "nameCn": "王慧诗",
+                            "nameEn": "Amy Wang"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680B"
+            ]
+        },
+        {
+            "cn": "645",
+            "displayName": "645 新光三越台北信義新天地A8店",
+            "givenName": "新光三越台北信義新天地A8店",
+            "telephoneNumber": [
+                "+886 2 2758 0858"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五至週六及公眾假期前一日",
+                    "11:00;21:30;週日至週四"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0107.02",
+                "st": "臺灣",
+                "description": "臺灣臺北市信義區松高路12號新光三越百貨2樓",
+                "l": [
+                    "臺北市",
+                    "信義區　"
+                ],
+                "dsLatitude": "25.038905",
+                "dsLongitude": "121.566672",
+                "cnLatitude": "25.041775",
+                "cnLongitude": "121.578155",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越台北信義新天地A8店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北一營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "60538"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "60538",
+                            "name": "戴美玲",
+                            "nameCn": "戴美玲",
+                            "nameEn": "Meilin Tai"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61977",
+                            "name": "廖千慧",
+                            "nameCn": "廖千慧",
+                            "nameEn": "Chien Hui Liao"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680A"
+            ]
+        },
+        {
+            "cn": "647",
+            "displayName": "647 高雄漢神巨蛋店",
+            "givenName": "高雄漢神巨蛋店",
+            "telephoneNumber": [
+                "+886 7 522 7759"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週一至週四",
+                    "10:30;22:30;週六及公眾假期",
+                    "10:30;22:00;連續假期最終日",
+                    "11:00;22:30;週五及連續假期前一日"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0202.02",
+                "st": "臺灣",
+                "description": "臺灣高雄市左營區博愛二路777號漢神巨蛋購物廣場2樓",
+                "l": [
+                    "高雄市",
+                    "左營區"
+                ],
+                "dsLatitude": "22.670009",
+                "dsLongitude": "120.303063",
+                "cnLatitude": "22.672879",
+                "cnLongitude": "120.314546",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "高雄漢神巨蛋店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣南營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61571"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61571",
+                            "name": "唐沁恩",
+                            "nameCn": "唐沁恩",
+                            "nameEn": "Cherry Tang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61672",
+                            "name": "李宜臻",
+                            "nameCn": "李宜臻",
+                            "nameEn": "Vivi Li"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680D"
+            ]
+        },
+        {
+            "cn": "648",
+            "displayName": "648 遠東SOGO天母店",
+            "givenName": "遠東SOGO天母店",
+            "telephoneNumber": [
+                "+886 2 2833 1453"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五至週六及公眾假期前一日",
+                    "11:00;21:30;週日至週四"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0108.01",
+                "st": "臺灣",
+                "description": "臺灣臺北市士林區中山北路六段77號太平洋崇光百貨3樓",
+                "l": [
+                    "臺北市",
+                    "士林區　"
+                ],
+                "dsLatitude": "25.104730",
+                "dsLongitude": "121.524557",
+                "cnLatitude": "25.107600",
+                "cnLongitude": "121.536040",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "遠東SOGO天母店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北二營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61662"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61662",
+                            "name": "張志強",
+                            "nameCn": "张志强",
+                            "nameEn": "King Chang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61703",
+                            "name": "巴慶祥",
+                            "nameCn": "巴庆祥",
+                            "nameEn": "Ching Hsiang Pa"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680B"
+            ]
+        },
+        {
+            "cn": "769",
+            "displayName": "769 板橋大遠百店",
+            "givenName": "板橋大遠百店",
+            "telephoneNumber": [
+                "+886 2 2956 9598"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0501.02",
+                "st": "臺灣",
+                "description": "臺灣新北市板橋區新站路28號遠東百貨3樓",
+                "l": [
+                    "新北市",
+                    "板橋區"
+                ],
+                "dsLatitude": "25.013498",
+                "dsLongitude": "121.466519",
+                "cnLatitude": "25.016368",
+                "cnLongitude": "121.478002",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "板橋大遠百店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北二營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61662"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61662",
+                            "name": "張志強",
+                            "nameCn": "张志强",
+                            "nameEn": "King Chang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61644",
+                            "name": "鄭光瑾",
+                            "nameCn": "郑光瑾",
+                            "nameEn": "Tammy Cheng"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680B"
+            ]
+        },
+        {
+            "cn": "906",
+            "displayName": "906 新竹大遠百店",
+            "givenName": "新竹大遠百店",
+            "telephoneNumber": [
+                "+886 3 523 6077"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0901.02",
+                "st": "臺灣",
+                "description": "臺灣新竹市東區西大路323號2樓",
+                "l": [
+                    "新竹市",
+                    "東區"
+                ],
+                "dsLatitude": "24.801539",
+                "dsLongitude": "120.965939",
+                "cnLatitude": "24.804409",
+                "cnLongitude": "120.977422",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新竹大遠百店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣中營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61301"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61301",
+                            "name": "林丁玉",
+                            "nameCn": "林丁玉",
+                            "nameEn": "Angel Lin"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61474",
+                            "name": "陳雅芝",
+                            "nameCn": "陈雅芝",
+                            "nameEn": "Ya Chih Chen"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680C"
+            ]
+        },
+        {
+            "cn": "992",
+            "displayName": "992 遠東SOGO台北敦化館",
+            "givenName": "遠東SOGO台北敦化館",
+            "telephoneNumber": [
+                "+886 2 2721 2256"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五、週六及公眾假期前一日"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0105.02",
+                "st": "臺灣",
+                "description": "臺灣臺北市大安區敦化南路一段246號太平洋崇光百貨B1樓",
+                "l": [
+                    "臺北市",
+                    "大安區　"
+                ],
+                "dsLatitude": "25.040062",
+                "dsLongitude": "121.548468",
+                "cnLatitude": "25.043858",
+                "cnLongitude": "121.558677",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "遠東SOGO台北敦化館",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北二營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61662"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61662",
+                            "name": "張志強",
+                            "nameCn": "张志强",
+                            "nameEn": "King Chang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61624",
+                            "name": "吳孟蓁",
+                            "nameCn": "吴孟蓁",
+                            "nameEn": "Emma Wu"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680B"
+            ]
+        },
+        {
+            "cn": "A37",
+            "displayName": "A37 新光三越台北信義新天地A11店",
+            "givenName": "新光三越台北信義新天地A11店",
+            "telephoneNumber": [
+                "+886 2 2720 6899"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五、週六及公眾假期前一日"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0107.01",
+                "st": "臺灣",
+                "description": "臺灣臺北市信義區松壽路11號新光三越百貨2樓",
+                "l": [
+                    "臺北市",
+                    "信義區　"
+                ],
+                "dsLatitude": "25.036047",
+                "dsLongitude": "121.567422",
+                "cnLatitude": "25.038917",
+                "cnLongitude": "121.578905",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越台北信義新天地A11店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北一營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "60538"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "60538",
+                            "name": "戴美玲",
+                            "nameCn": "戴美玲",
+                            "nameEn": "Meilin Tai"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61479",
+                            "name": "李佳穎",
+                            "nameCn": "李佳颖",
+                            "nameEn": "Nicole Li"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680A"
+            ]
+        },
+        {
+            "cn": "A38",
+            "displayName": "A38 新光三越桃園站前店",
+            "givenName": "新光三越桃園站前店",
+            "telephoneNumber": [
+                "+886 3 331 3808"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週五、週六及公眾假期前一日"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0607.02",
+                "st": "臺灣",
+                "description": "臺灣桃園市桃園區中正路19號1樓",
+                "l": [
+                    "桃園市",
+                    "中壢區"
+                ],
+                "dsLatitude": "24.990212",
+                "dsLongitude": "121.312637",
+                "cnLatitude": "24.993573",
+                "cnLongitude": "121.323600",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "新光三越桃園站前店",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北一營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "60538"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "60538",
+                            "name": "戴美玲",
+                            "nameCn": "戴美玲",
+                            "nameEn": "Meilin Tai"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61956",
+                            "name": "陳政奇",
+                            "nameCn": "陈政奇",
+                            "nameEn": "Robin Chen"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680A"
+            ]
+        },
+        {
+            "cn": "C11",
+            "displayName": "C11 義大世界購物廣場",
+            "givenName": "義大世界購物廣場",
+            "telephoneNumber": [
+                "+886 7 656 8189"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:00;週一至週五",
+                    "10:00;22:00;週六日及公眾假期"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0211.01",
+                "st": "臺灣",
+                "description": "臺灣高雄市大樹區學城路一段12號A區Lobby",
+                "l": [
+                    "高雄市",
+                    "大樹區"
+                ],
+                "dsLatitude": "22.730378",
+                "dsLongitude": "120.402013",
+                "cnLatitude": "22.730378",
+                "cnLongitude": "120.402013",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "義大世界購物廣場",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣南營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61571"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61571",
+                            "name": "唐沁恩",
+                            "nameCn": "唐沁恩",
+                            "nameEn": "Cherry Tang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "62096",
+                            "name": "黎佳函",
+                            "nameCn": "黎佳函",
+                            "nameEn": "Nina Li"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680D"
+            ]
+        },
+        {
+            "cn": "C45",
+            "displayName": "C45 京站時尚廣場",
+            "givenName": "京站時尚廣場",
+            "telephoneNumber": [
+                "+886 2 2559 5128"
+            ],
+            "serviceProvision": {
+                "operatingHour": [],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務"
+                ]
+            },
+            "address": {
+                "cn": "TW0102.01",
+                "st": "臺灣",
+                "description": "臺灣臺北市大同區承德路一段1號1樓",
+                "l": [
+                    "臺北市",
+                    "大同區　"
+                ],
+                "dsLatitude": "25.049551",
+                "dsLongitude": "121.517226",
+                "cnLatitude": "25.049551",
+                "cnLongitude": "121.517226",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "京站時尚廣場",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北一營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "60538"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "60538",
+                            "name": "戴美玲",
+                            "nameCn": "戴美玲",
+                            "nameEn": "Meilin Tai"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61593",
+                            "name": "蕭舒葶",
+                            "nameCn": "萧舒葶",
+                            "nameEn": "Leslie Hsiao"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680A"
+            ]
+        },
+        {
+            "cn": "D52",
+            "displayName": "D52 大江國際購物中心",
+            "givenName": "大江國際購物中心",
+            "telephoneNumber": [
+                "+886 3 468 0152"
+            ],
+            "serviceProvision": {
+                "operatingHour": [
+                    "11:00;22:30;週五、週六及公眾假期前一天"
+                ],
+                "product": [
+                    "珠寶",
+                    "足金飾品易貨服務(內地: 足金以舊換新)",
+                    "預約服務",
+                    "婚嫁專區"
+                ]
+            },
+            "address": {
+                "cn": "TW0607.03",
+                "st": "臺灣",
+                "description": "臺灣桃園市中壢區中園路二段501號1樓大江國際購物中心",
+                "l": [
+                    "桃園市",
+                    "中壢區"
+                ],
+                "dsLatitude": "25.001737",
+                "dsLongitude": "121.228539",
+                "cnLatitude": "25.001737",
+                "cnLongitude": "121.228539",
+                "tcLatitude": "",
+                "tcLongitude": ""
+            },
+            "storeType": null,
+            "reserveInStoreInd": "N",
+            "pickUpInd": "N",
+            "brandCode": "ES",
+            "brand": "點睛品",
+            "description": "大江國際購物中心",
+            "region": [
+                "台灣區",
+                "台灣業務區",
+                "台灣北二營運區"
+            ],
+            "regionManagerEmplNbr": [
+                "8667",
+                "62135",
+                "61662"
+            ],
+            "regionManagerEmplInfo": [
+                {
+                    "managerType": "regManager",
+                    "empls": [
+                        {
+                            "uid": "8667",
+                            "name": "李敏姬",
+                            "nameCn": "李敏姬",
+                            "nameEn": "Maggie Li"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "bizManager",
+                    "empls": [
+                        {
+                            "uid": "62135",
+                            "name": "黃淑真",
+                            "nameCn": "黄淑真",
+                            "nameEn": "Tina Huang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "disManager",
+                    "empls": [
+                        {
+                            "uid": "61662",
+                            "name": "張志強",
+                            "nameCn": "张志强",
+                            "nameEn": "King Chang"
+                        }
+                    ]
+                },
+                {
+                    "managerType": "storeManager",
+                    "empls": [
+                        {
+                            "uid": "61476",
+                            "name": "范鳳馨",
+                            "nameCn": "范凤馨",
+                            "nameEn": "Judy Fan"
+                        }
+                    ]
+                }
+            ],
+            "regionCde": [
+                "TW",
+                "680Z",
+                "680B"
+            ]
+        }
+    ],
+    "resultCount": 23
+}
