@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwgeYC36l4W8BZlV2kOqGl671dYXGRK_Q&callback=initGoogleMap" defer></script>
+
+  <script src="https://www.amcharts.com/lib/3/ammap.js"></script>
+  <script src="https://www.amcharts.com/lib/3/maps/js/hongKongLow.js"></script>
+  <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+
+  <title>Document</title>
+
+  <style>
+      body {
+        position: relative;
+      }
+
+      #maps {
+          width: 1000px;
+          height: 750px;
+          border: 0px solid #eee;
+          margin: 0px auto;
+          position: relative;
+      }
+
+      .mapdiv {
+          width: 1000px;
+          height: 750px;
+          position: absolute;
+          top: 0;
+          left: 0;
+      }
+
+      button{
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+  </style>
+</head>
+<body>
+  <div id="maps">
+    <div id="gmap" class="mapdiv" style="visibility: hidden;"></div>
+    <div id="ammap" class="mapdiv" style="visibility: visible;"></div>
+  </div>
+  <button onclick="goToGeo()">返回 geo</button>
+</body>
+    <script>
+      /**
+ * Setup breaking points between amCharts and Google Maps
+ */
+AmCharts.amBreakLevel = 64;
+AmCharts.amBreakLevelReturn = 32; // used to return from GMap
+AmCharts.gBreakLevel = 8;
+
+/**
+ * Create the Google Map
+ */
+var gmap;
+
+function initGoogleMap() {
+  gmap = new google.maps.Map( document.getElementById( 'gmap' ), {
+    scrollwheel: true
+  } );
+
+  gmap.addListener("zoom_changed", function() {
+
+    /**
+     * Switch back to amCharts
+     */
+    if ( gmap.getZoom() < AmCharts.gBreakLevel ) {
+      // sync position
+      var center = gmap.getCenter();
+      ammap.zoomToLongLat(
+        AmCharts.amBreakLevelReturn,
+        center.lng(),
+        center.lat(),
+        true
+      );
+
+      // switch to Google map
+      document.getElementById( "ammap" ).style.visibility = "visible";
+      document.getElementById( "gmap" ).style.visibility = "hidden";
+    }
+  } );
+}
+
+/**
+ * Create the amCharts Map
+ */
+var ammap = AmCharts.makeChart( "ammap", {
+  "type": "map",
+  "theme": "light",
+  "dataProvider": {
+    "map": "hongKongLow",
+    "getAreasFromMap": true,
+  },
+  "areasSettings": {
+    "autoZoom": true,
+    "selectedColor": "#CC0000"
+  },
+  "zoomControl": {
+    "bottom": 10,
+    "right": 10
+  },
+  "listeners": [ {
+    "event": "zoomCompleted",
+    "method": function( e ) {
+
+      /**
+       * GMap inited?
+       */
+      if ( typeof gmap === "undefined" )
+        return;
+
+      if ( ammap.zoomLevel() >= AmCharts.amBreakLevel ) {
+        // sync position
+        gmap.setCenter( {
+          lat: ammap.zoomLatitude(),
+          lng: ammap.zoomLongitude()
+        } );
+
+        // set zoom level
+        gmap.setZoom( AmCharts.gBreakLevel + 9 );
+
+        // switch to Google map
+        document.getElementById( "ammap" ).style.visibility = "hidden";
+        document.getElementById( "gmap" ).style.visibility = "visible";
+      }
+    }
+  } ]
+} );
+
+/**
+ * Function which tries to convert between amCharts zoom level and Google's
+ */
+function amZoomLevelToGoogle( level ) {
+
+  // round
+  level = Math.round( level );
+  var newLevel = Math.round( Math.sqrt( level ) );
+
+  // find a zoom level
+  AmCharts.zoomLevels.forEach( function( zoomLevel ) {
+    if ( level >= zoomLevel.am )
+      newLevel = zoomLevel.g;
+  } );
+  return newLevel;
+}
+
+/**
+ * Function which tries to convert between Google's zoom level and amCharts
+ */
+function gZoomLevelToAm( level ) {
+
+  // round
+  level = Math.round( level );
+  var newLevel = Math.round( Math.sqrt( level ) );
+
+  // find a zoom level
+  AmCharts.zoomLevels.forEach( function( zoomLevel ) {
+    if ( level >= zoomLevel.g )
+      newLevel = zoomLevel.am;
+  } );
+  return newLevel;
+}
+    
+function goToGeo() {
+  document.getElementById( "ammap" ).style.visibility = "visible";
+        document.getElementById( "gmap" ).style.visibility = "hidden";
+    }
+    </script>
+</html>

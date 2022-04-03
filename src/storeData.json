@@ -1,0 +1,13 @@
+{
+  "result": [
+    {
+      "address": {
+        "latitude": "100",
+        "longitude": "20"
+      },
+      "title": "title",
+      "color": "#000000",
+      "openImageBool": true
+    }
+  ]
+}
